@@ -1,0 +1,38 @@
+{
+    "Research Excellence": {
+      "1 (Poor)": "Very limited research and methodology. Few sources, incorrect or superficial information.",
+      "2 (Below Average)": "Basic research and methodology. Common sources, lacks depth.",
+      "3 (Average)": "Good research and methodology. Several reliable sources, mostly accurate information.",
+      "4 (Above Average)": "Thorough research and methodology. Variety of credible sources, well-integrated information.",
+      "5 (Excellent)": "Exceptional research and methodology. Wide range of sources, detailed and accurate information."
+    },
+    "Analytical and Interpretive Skills": {
+      "1 (Poor)": "Inaccurate or nonexistent data interpretation. Lack of critical analysis.",
+      "2 (Below Average)": "Basic data interpretation and limited critical analysis.",
+      "3 (Average)": "Adequate data interpretation and moderate critical analysis.",
+      "4 (Above Average)": "Strong data interpretation and critical analysis.",
+      "5 (Excellent)": "Exceptional data interpretation and critical analysis, highly accurate and insightful."
+    },
+    "Application and Innovation": {
+      "1 (Poor)": "Minimal or incorrect application of STEM principles. Little to no originality.",
+      "2 (Below Average)": "Basic application of STEM principles, some originality but derivative.",
+      "3 (Average)": "Good application of STEM, shows creativity.",
+      "4 (Above Average)": "Strong application of STEM principles, highly creative and original.",
+      "5 (Excellent)": "Exceptional and innovative application of STEM principles, advanced understanding and breakthrough ideas."
+    },
+    "Presentation and Communication Skills": {
+      "1 (Poor)": "Unclear, disorganized presentation. Difficult to follow.",
+      "2 (Below Average)": "Somewhat clear but lacks engaging organization.",
+      "3 (Average)": "Clear, organized presentation. Engaging to an extent.",
+      "4 (Above Average)": "Very clear and well-organized. Engages audience effectively.",
+      "5 (Excellent)": "Exceptionally clear, compelling, and engaging presentation."
+    },
+    "Teamwork and Community Engagement": {
+      "1 (Poor)": "Poor teamwork, limited community thinking. Fails to collaborate effectively.",
+      "2 (Below Average)": "Limited teamwork and community thinking, occasional collaboration issues.",
+      "3 (Average)": "Moderate teamwork and community thinking. Effective collaboration with some community impact.",
+      "4 (Above Average)": "Strong teamwork and community thinking. Collaborates effectively with community impact.",
+      "5 (Excellent)": "Exceptional teamwork and community thinking. Outstanding collaboration and prioritizes community impact."
+    }
+  }
+  

@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 8px;
+}
+
+.rating-cell {
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.glow {
+    background-color: #f0f0f0; /* Light background for selected cell */
+    box-shadow: 0 0 10px #9ecaed; /* Glowing effect */
+}
